@@ -22,8 +22,6 @@ class GameObject {
   public float health = 0;
   public Random rand = new Random();
   
-  public float r = 0;
-  
   //default constructor
   public GameObject() {
     //getters
